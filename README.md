@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @David16a
+- 👋 Hi, I’m David Mesoma Chigozie
 - 👀 I’m interested in software development and engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on development
