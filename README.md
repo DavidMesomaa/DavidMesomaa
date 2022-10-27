@@ -5,6 +5,6 @@
 - 📫 How to reach me : mesogod2006@gmail.com
 
 <!---
-David16a/David16a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+David16a/David16a is a ✨ special ✨ repository made by a guy named David. Because this is a `README.md`, (this file) appears on My GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
