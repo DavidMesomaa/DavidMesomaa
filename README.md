@@ -1,3 +1,6 @@
+
+<img src = "Img/character-1@2x.png" alt="My background image">
+
 # Simulate The Future Of AI
 ##### . 👋 Hi, I’m David Mesoma Chigozie
 ##### . 👀 Lover of Operating Systems, Shared Network and Artificial Intelligence
