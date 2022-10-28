@@ -1,5 +1,5 @@
 
-<img src="character-1@2x (2).jpg" alt="My background image">
+<img src="3712.jpg" alt="My background image">
 
 # Simulate The Future Of AI
 ##### . 👋 Hi, I’m David Mesoma Chigozie
