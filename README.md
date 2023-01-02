@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
  <a href="mailto:davidchinedu06@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=microsoft&logoColor=auto" />
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=microsoft&logoColor=red" />
 </a>&nbsp;&nbsp;
   <img src="https://gpvc.arturio.dev/Victorola-coder" />
   </a>&nbsp;&nbsp;
