@@ -5,7 +5,7 @@
 
   I am a Software Developer specializing in Frontend development. I love building and crafting responsive and visually appealing user-centric interfaces using popular CSS frameworks like Bootstrap and TailwindCSS and Javascript library/frameworks like ReactJS and NextJS.
 
-  I also code in Python with experience in Django, Flask, FastAPI and I have also written code in C++.
+  I also code in Python with tools like Django, Flask, FastAPI and I have also written code in C++.
   I have developed a strong expertise in frontend development with Javascript/Typescript and eagerly diving into the captivating world of backend technologies with Python.
 
   ## Development Stack

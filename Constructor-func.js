@@ -34,5 +34,5 @@ myPC.otherPCSpec();
     Ram, Device Id, Product Id and System Type. It Also Has Some Methods
     That Can Shutdown Your PC, Restart Your PC, Sleep Your PC And Also
     Logs Your PC Specification and Log Other PC Specification's 😮.
-    Made With ❤ By Me David Mesoma Chigozie. Please Star It 👍. Thanks 😎.
+    Made With ❤ By Me David Mesoma. Please Star It 👍. Thanks 😎.
 */
