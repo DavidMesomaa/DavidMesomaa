@@ -1,63 +1,62 @@
-
 <p align='center'>
-<a href="https://wa.me/2348105621313?text=Hello David" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/MesomaDavid" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<!-- <a href="https://www.linkedin.com/in/victor-tolu-olatunji-889568246/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp; -->
-<a href="mailto:mesogod2006@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
- <a href="mailto:davidchinedu06@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=microsoft&logoColor=blue" />
-</a>&nbsp;&nbsp;
-  <img src="https://gpvc.arturio.dev/Victorola-coder" />
-  </a>&nbsp;&nbsp;
+  <h1 align='center'>Hey there!🖐 I am David Mesoma</h1>
+
+  ## Know me
+
+  I am a Software Developer specializing in Frontend development. I love building and crafting responsive and visually appealing user-centric interfaces using popular CSS frameworks like Bootstrap and TailwindCSS and Javascript library/frameworks like ReactJS and NextJS.
+
+  I also code in Python with experience in Django, Flask, FastAPI and I have also written code in C++.
+  I have developed a strong expertise in frontend development with Javascript/Typescript and eagerly diving into the captivating world of backend technologies with Python.
+
+  ## Development Stack
   
-<img src="3712.jpg" alt="My background image">
+  I specialize in a wide range of frontend technologies, including:
+  -   **React**, **Next**, **Bootstrap**, **Sass**, **Typescript** and **TailwindCSS** for frontend development
 
-# Simulate The Future Of AI
-##### . 👋 Hi, I’m David Mesoma Chigozie
-##### . 👀 Lover of Operating Systems, Shared Network and Artificial Intelligence
-##### . 🌱 I’m currently into Backend and Blockchain, with the use of Python (Django), Web 3.0, and solidity
-##### . 📫 I'm currently practicing React as a side Boost
-##### . 🌱 Ask me anything about coding with Python and Computer Configuration and Networks
-##### . 💞️ I’m looking to collaborate on any project
-##### . 📫 You can reach me mesogod2006@gmail.com
+  And currently honing my backend skills using backend technologies, including:
+  -   **Django**, **Flask** **FastAPI**, and **RestAPI** for backend development
+  -   **MySql** and **PostgreSQL** for database management
+  
+  ## Experience
 
+  Over the past 2+ years, I've dedicated myself to refining my skills and this journey has equipped me with a profound understanding of vest practices to tackle complex challenges. This journey, which I'm excited to continue, I'm eager to dedicate the next phase to delivering innovative solutions and building a portfolio of noteworthy projects that reflect my commitment and passion for the world of development.
 
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Reactjs" height="40" style="vertical-align:top; margin:4px"> 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" height="40"
-style="vertical-align:top; margin: 4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="cpp" height="40"
-style="vertical-align:top; margin: 4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" alt="cpp" height="40"
-style="vertical-align:top; margin: 4px">
+  Feel free to explore my [GitHub repositories](https://github.com/DavidMesomaa?tab=repositories) for updates and examples of my work and projects utilizing my dev stack.
 
+  -   👩‍💻 I’m currently learning **Backend Dev**, **Artificial Intelligence, Blockchain, Networking, C++**.
+
+  -   🤝 Available for **work** and **collaborations**.
+
+  -   💬 Ask me about **Python, React, JavaScript, Django, FastAPI, Bootstrap, TailwindCSS**.
+
+  <h3 align="left">🎯 Connect with me:</h3>
+
+  <p align="center">
+    <a href="https://twitter.com/damechi_" target="blank">
+      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="https://wa.me/2348105621313?text=Hello David" target="_blank">
+      <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
+    </a>&nbsp;&nbsp;
+    <a href="mailto:mesogod2006@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+    </a>&nbsp;&nbsp;
+    <a href="mailto:davidchinedu06@outlook.com" target="_blank">
+      <img src="https://img.shields.io/badge/OUTLOOK-%230077B5.svg?&style=for-the-badge&logo=microsoft&logoColor=white" alt="outlook" />
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=davidmesomaa&label=PROFILE+VIEWS">
+      <img src="https://komarev.com/ghpvc/?username=davidmesomaa&label=PROFILE+VIEWS&style=for-the-badge&color=red&abbreviated=true" />
+    </a>&nbsp;&nbsp;
 </p>
 
-<!--
-**David16a/David16a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwindcss,js,react,next,ts,vite,nodejs,git,vercel,python,django,cpp,mysql,postgres,md,flask,fastapi&perline=9" />
+    </a>
+  </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align ="left">
+    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmesomaa&langs_count=7&layout=compact&theme=tokyonight" />
+    <img src ="https://github-readme-stats.vercel.app/api?username=davidmesomaa&show_icons=true&theme=tokyonight&line_height=25" />
+  </p>
